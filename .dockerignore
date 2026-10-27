@@ -1,0 +1,13 @@
+.git
+.publish
+.npm-cache
+**/node_modules
+**/dist
+**/.env
+**/.env.*
+**/.mfa-key
+**/*.db
+**/*.db-shm
+**/*.db-wal
+**/*.db-journal
+**/*.log
